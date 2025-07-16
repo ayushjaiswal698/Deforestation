@@ -1,1 +1,1 @@
-# Deforestation
+# Deforestation detection
